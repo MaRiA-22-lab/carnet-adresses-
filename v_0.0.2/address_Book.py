@@ -67,3 +67,4 @@ class AddressBook:
                         print("Ligne ignorée (donnée invalide)")
 
         return contacts
+# CD-18: Methode load_from_file() pour charger au demarrage
