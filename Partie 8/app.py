@@ -191,3 +191,6 @@ Système CRM
 # =================================================
 if __name__ == "__main__":
     app.run(debug=True)
+# CD-41: Menu deroulant filtre par categorie
+
+# CD-41: Actualisation dynamique de la liste
