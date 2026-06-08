@@ -67,3 +67,4 @@ class AddressBook:
                         print("Ligne ignorée (donnée invalide)")
 
         return contacts
+# CD-17: AddressBook avec persistance fichier - v0.0.2
