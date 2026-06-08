@@ -190,3 +190,5 @@ Service de gestion des contacts
 if __name__ == "__main__":
     app.run(debug=True)
 # CD-36: Module communication email/WhatsApp
+
+# CD-36: Fonction send_email() avec smtplib
