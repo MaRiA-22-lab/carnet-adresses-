@@ -43,3 +43,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# CD-20: Message d'erreur si doublon detecte
