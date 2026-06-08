@@ -68,3 +68,5 @@ class AddressBook:
 
         return contacts
 # CD-17: AddressBook avec persistance fichier - v0.0.2
+
+# CD-17: Methode save_to_file() pour sauvegarder les contacts
