@@ -45,3 +45,4 @@ class Auth:
 
         return False
 # CD-25: Module authentification admin securise
+# Update 1
