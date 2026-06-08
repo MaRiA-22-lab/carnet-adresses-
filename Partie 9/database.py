@@ -69,3 +69,5 @@ def reset_db():
     if os.path.exists(DB_NAME):
         os.remove(DB_NAME)
     init_db()
+
+# CD-43: Stockage RDV pris dans la base de donnees

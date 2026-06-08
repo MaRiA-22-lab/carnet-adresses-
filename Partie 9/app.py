@@ -235,3 +235,4 @@ def rdv(id):
 # =================================================
 if __name__ == "__main__":
     app.run(debug=True)
+# CD-43: Liste creneaux 9h00, 9h30, 10h00...
