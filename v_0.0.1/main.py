@@ -39,3 +39,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# CD-15: Option modification dans le menu
