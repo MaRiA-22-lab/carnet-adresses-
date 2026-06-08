@@ -46,3 +46,5 @@ class Auth:
         return False
 # CD-25: Module authentification admin securise
 # Update 1
+
+# CD-25: Fenetre Tkinter de login administrateur
