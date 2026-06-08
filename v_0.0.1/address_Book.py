@@ -30,3 +30,5 @@ class AddressBook:
     
         print("Contact non trouvé.")# Modification 2
 # Update 2
+
+# CD-11: Methode add_contact() dans AddressBook
