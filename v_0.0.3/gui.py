@@ -188,3 +188,4 @@ class AddressBookGUI(tk.Tk):
 if __name__ == "__main__":
     app = AddressBookGUI()
     app.mainloop()
+# CD-22: Widget Listbox pour afficher les contacts
