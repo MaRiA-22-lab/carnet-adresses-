@@ -29,3 +29,4 @@ class AddressBook:
                 return
     
         print("Contact non trouvé.")
+# CD-13: Methode search_contact() par nom
