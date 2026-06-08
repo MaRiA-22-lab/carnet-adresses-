@@ -169,3 +169,4 @@ class ContactModel:
         conn.close()
 
         return results
+# CD-39: Modeles avec categories et champs avances
