@@ -169,3 +169,4 @@ class ContactModel:
         conn.close()
 
         return results
+# CD-40: Champs adresse, fonction, entreprise
