@@ -44,3 +44,4 @@ class Auth:
                     return True
 
         return False
+# CD-26: Fonction hash_password() avec SHA256
