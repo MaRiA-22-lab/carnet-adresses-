@@ -17,3 +17,4 @@ class Contact:
 
     def __str__(self):
         return f"{self.nom},{self.email},{self.telephone}"
+# CD-19: Validation email avec regex
