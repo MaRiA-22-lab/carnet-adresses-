@@ -100,3 +100,5 @@ def search():
 if __name__ == "__main__":
     app.run(debug=True)
 # CD-35: Route /login avec gestion sessions Flask
+
+# CD-35: Decorateur login_required pour proteger les routes
