@@ -44,3 +44,5 @@ class Database:
 # CD-27: Base de donnees SQLite - v0.0.4
 
 # CD-27: Creation table contacts (id, nom, email, tel)
+
+# CD-27: Creation table admins (id, username, password_hash)
