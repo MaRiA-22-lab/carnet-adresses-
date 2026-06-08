@@ -162,4 +162,4 @@ class ContactModel:
         results = cursor.fetchall()
         conn.close()
 
-        return results
+        return results# Update 2
