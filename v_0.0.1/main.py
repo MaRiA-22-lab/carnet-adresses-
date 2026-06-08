@@ -40,3 +40,5 @@ def main():
 if __name__ == "__main__":
     main()
 # CD-16: Boucle principale du menu interactif console
+
+# CD-16: Gestion des choix utilisateur avec try/except
