@@ -39,3 +39,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# CD-14: Option suppression dans le menu
