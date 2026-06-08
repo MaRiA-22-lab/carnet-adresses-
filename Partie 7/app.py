@@ -189,3 +189,4 @@ Service de gestion des contacts
 # =================================================
 if __name__ == "__main__":
     app.run(debug=True)
+# CD-37: Fonction send_whatsapp() avec pywhatkit
