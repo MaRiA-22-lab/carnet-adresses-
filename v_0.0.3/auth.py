@@ -44,3 +44,4 @@ class Auth:
                     return True
 
         return False
+# CD-25: Module authentification admin securise
