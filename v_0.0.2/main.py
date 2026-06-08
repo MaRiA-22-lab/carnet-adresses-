@@ -43,3 +43,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+# CD-18: Appel load_from_file() au demarrage de l'application
