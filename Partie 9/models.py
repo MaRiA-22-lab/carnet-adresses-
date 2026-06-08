@@ -169,3 +169,4 @@ class ContactModel:
         conn.close()
 
         return results
+# CD-44: Affichage liste RDV avec nom du contact
