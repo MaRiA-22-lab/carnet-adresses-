@@ -67,3 +67,4 @@ class AddressBook:
                         print("Ligne ignorée (donnée invalide)")
 
         return contacts
+# CD-20: Verification des doublons par email avant ajout
