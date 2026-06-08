@@ -41,3 +41,4 @@ class Database:
         """)
 
         self.conn.commit()
+# CD-28: Methode insert_contact() dans SQLite
