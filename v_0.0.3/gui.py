@@ -189,3 +189,5 @@ if __name__ == "__main__":
     app = AddressBookGUI()
     app.mainloop()
 # CD-21: Interface graphique Tkinter - v0.0.3
+
+# CD-21: Creation fenetre principale Tk() avec titre
