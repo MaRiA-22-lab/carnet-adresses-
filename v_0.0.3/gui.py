@@ -189,3 +189,5 @@ if __name__ == "__main__":
     app = AddressBookGUI()
     app.mainloop()
 # CD-22: Widget Listbox pour afficher les contacts
+
+# CD-22: Tri alphabetique des contacts dans la Listbox
