@@ -99,3 +99,4 @@ def search():
 
 if __name__ == "__main__":
     app.run(debug=True)
+# CD-35: Route /login avec gestion sessions Flask
