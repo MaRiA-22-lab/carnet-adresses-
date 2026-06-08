@@ -190,3 +190,5 @@ Service de gestion des contacts
 if __name__ == "__main__":
     app.run(debug=True)
 # CD-38: Template email confirmation de RDV
+
+# CD-38: Envoi automatique apres creation RDV
