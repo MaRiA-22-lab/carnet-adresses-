@@ -92,3 +92,5 @@ if __name__ == "__main__":
 
     login = LoginWindow()
     login.mainloop()# Update 2
+
+# CD-25: Verification des identifiants admin
