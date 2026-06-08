@@ -191,3 +191,4 @@ Système CRM
 # =================================================
 if __name__ == "__main__":
     app.run(debug=True)
+# CD-39: Liste deroulante des categories
