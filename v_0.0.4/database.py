@@ -41,3 +41,4 @@ class Database:
         """)
 
         self.conn.commit()
+# CD-27: Base de donnees SQLite - v0.0.4
