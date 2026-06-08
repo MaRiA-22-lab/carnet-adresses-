@@ -40,4 +40,4 @@ class Database:
         )
         """)
 
-        self.conn.commit()
+        self.conn.commit()# Update 3
