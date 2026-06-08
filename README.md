@@ -3,3 +3,6 @@ Python-based contact management application using Git for version control and Ji
 
 ## CD-45: GitHub et Collaboration
 Projet gere avec Git et GitHub pour la collaboration en equipe.
+
+## CD-45: GitHub et Collaboration
+Projet gere avec Git et GitHub.
