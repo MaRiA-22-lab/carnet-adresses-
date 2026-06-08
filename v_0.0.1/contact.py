@@ -14,3 +14,4 @@ class Contact:
     def __str__(self):
         return f"{self.nom},{self.email},{self.telephone}"
 # CD-11: Classe Contact - Module Console v0.0.1
+# Modification 1
