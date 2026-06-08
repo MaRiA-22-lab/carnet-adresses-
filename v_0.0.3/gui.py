@@ -189,3 +189,5 @@ if __name__ == "__main__":
     app = AddressBookGUI()
     app.mainloop()
 # CD-23: Bouton Ajouter avec fenetre Toplevel
+
+# CD-23: Champs Entry pour nom, email, telephone
