@@ -22,4 +22,4 @@ def init_db():
     """)
 
     conn.commit()
-    conn.close()
+    conn.close()# Update 3
