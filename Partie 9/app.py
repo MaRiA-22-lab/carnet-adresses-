@@ -238,3 +238,5 @@ if __name__ == "__main__":
 # CD-42: Module gestion des rendez-vous
 
 # CD-42: Widget Calendar pour agenda visuel
+
+# CD-42: Navigation entre les mois
