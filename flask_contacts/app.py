@@ -101,3 +101,5 @@ if __name__ == "__main__":
     app.run(debug=True)
 # CD-29: Application web Flask - Gestion contacts
 # Update 1
+
+# CD-29: Route /contacts avec liste des contacts
