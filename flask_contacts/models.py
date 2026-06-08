@@ -163,3 +163,5 @@ class ContactModel:
         conn.close()
 
         return results# Update 2
+
+# CD-29: Template Jinja2 pour afficher les contacts
