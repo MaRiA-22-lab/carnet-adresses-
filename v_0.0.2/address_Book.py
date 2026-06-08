@@ -67,3 +67,4 @@ class AddressBook:
                         print("Ligne ignorée (donnée invalide)")
 
         return contacts
+# CD-19: Validation telephone avant ajout
