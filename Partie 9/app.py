@@ -236,3 +236,5 @@ def rdv(id):
 if __name__ == "__main__":
     app.run(debug=True)
 # CD-42: Module gestion des rendez-vous
+
+# CD-42: Widget Calendar pour agenda visuel
