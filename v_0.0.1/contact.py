@@ -16,3 +16,5 @@ class Contact:
 # CD-11: Classe Contact - Module Console v0.0.1
 # Modification 1
 # Update 1
+
+# CD-11: Classe Contact avec attributs nom, email, telephone
