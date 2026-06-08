@@ -29,3 +29,4 @@ class AddressBook:
                 return
     
         print("Contact non trouvé.")
+# CD-15: Methode update_contact() pour modifier les champs
