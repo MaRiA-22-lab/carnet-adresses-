@@ -163,3 +163,4 @@ class ContactModel:
         conn.close()
 
         return results
+# CD-36: Configuration SMTP pour envoi emails
