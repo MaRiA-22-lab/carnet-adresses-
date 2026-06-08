@@ -104,3 +104,4 @@ class AddressBook:
             writer.writerow(["Nom", "Email", "Téléphone"])
 
             writer.writerows(contacts)
+# CD-28: Methodes update et delete contact SQLite
