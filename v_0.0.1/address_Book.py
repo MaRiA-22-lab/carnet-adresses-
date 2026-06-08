@@ -29,3 +29,4 @@ class AddressBook:
                 return
     
         print("Contact non trouvé.")
+# CD-14: Methode delete_contact() avec confirmation
