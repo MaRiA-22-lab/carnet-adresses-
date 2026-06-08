@@ -23,3 +23,4 @@ def init_db():
 
     conn.commit()
     conn.close()
+# CD-30: Insertion contact dans SQLite via formulaire web
